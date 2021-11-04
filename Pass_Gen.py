@@ -15,7 +15,8 @@ def password():
     for i in range(index):
         b = random.choice(c)
         d.append(b)
-        password = "".join(d)
+
+    password = "".join(d)
     print(password)
 
 
