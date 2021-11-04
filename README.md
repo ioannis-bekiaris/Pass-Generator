@@ -1,1 +1,1 @@
-# Pass-Generator
+A simple Password Generator script
